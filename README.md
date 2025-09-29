@@ -18,6 +18,7 @@ Open your terminal or command prompt and clone the repository:
 ```bash
 git clone https://github.com/Akashdeep-47/py-toolshed.git
 cd py-toolshed
+```
 
 ---
 
@@ -40,5 +41,13 @@ Install all necessary Python packages listed in `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+```
+
+
+
+
+
+
+
 
 
