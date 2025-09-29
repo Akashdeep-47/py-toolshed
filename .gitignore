@@ -1,0 +1,65 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/lib64/
+
+# Dependencies
+# Pip
+pip-wheel-metadata/
+.pip-temp/
+*.egg-info/
+.installed.cfg
+# Poetry
+.poetry/
+# Conda
+.conda/
+conda-meta/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Testing and Coverage
+.coverage
+.tox/
+/htmlcov/
+
+# Documentation
+/docs/_build/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# IDE and Editor files (add specific ones as needed)
+.idea/
+.vscode/
+*.swp
+*~
+
+# Output folders created by the scripts (optional, but recommended)
+*-jpg/
+*-png/
+*.gif
+*.bmp
+*.tiff
+
+# Compiled artifacts and temporary files
+dist/
+build/
+tmp/
