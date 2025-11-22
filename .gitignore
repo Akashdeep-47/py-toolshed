@@ -12,6 +12,7 @@ env/
 /include/
 /lib/
 /lib64/
+.venv
 
 # Dependencies
 # Pip
